@@ -2,3 +2,11 @@
 Image Classification (CNN)
 
 Click on this link and download dataset: [The Dataset](https://drive.google.com/file/d/1XAEaVESQxmO-wqYWg_0SsEcq-8zGA6iq/view?usp=sharing)
+
+diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+
